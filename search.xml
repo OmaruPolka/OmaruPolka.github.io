@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>VtbLover 网站托管企划 堂堂连载！</title>
+    <url>/2020/08/29/main/</url>
+    <content><![CDATA[<p>VtbLover 网站托管企划是 TPNPforMirai 团队为 Vtuber 爱好者提供的免费 LNMP 运行环境。</p>
+<h2 id="服务器信息"><a href="#服务器信息" class="headerlink" title="服务器信息"></a>服务器信息</h2><p>国内：阿里云 (北京) 2x Cores 4GB Ram 50GB HDD / 1x Core 2GB Ram 1TB HDD.</p>
+<p>国际：甲骨文云 (大阪)  1x Core 1GB Ram 5TB HDD.</p>
+<h2 id="LNMP环境信息"><a href="#LNMP环境信息" class="headerlink" title="LNMP环境信息"></a>LNMP 环境信息</h2><p>Nginx version: 1.19.2</p>
+<p>MariaDB version: 10.4.10</p>
+<p>PHP version: 5.6 / 7.4</p>
+<p>Pure-FTPd version: 1.0.49</p>
+<p>phpMyAdmin version: 5.0</p>
+<p>Docker (with DockerCompose) version: 3.2</p>
+<p>Memcached version: 1.6.6</p>
+<p>Fail2ban version: 1.6</p>
+<p>PHP extensions: ZendGuardLoader (PHP version 5.6 only) ionCube fileinfo opcache memcached imagemagick exif intl</p>
+<h2 id="申请"><a href="#申请" class="headerlink" title="申请"></a>申请</h2><p>请阅读下一节注意事项后，填写以下内容并邮件至 <code>admin@01160113.xyz</code>. 我们将在 72 小时内处理您的申请.</p>
+<pre class="line-numbers language-Markdown" data-language="Markdown"><code class="language-Markdown">昵称: ________
+联系方式(QQ/微信/邮箱): ________
+单推的Vtuber: ________
+所在的粉丝群编号(不是群号!): ________
+自定义域名(可选): ________<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+
+<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol>
+<li>目前 (2020 年 08 月 24 日至今) 暂时只接受 NoriPro 所属 Vtuber 粉丝群群员申请.</li>
+<li> 目前 (2020 年 08 月 24 日至今) 暂时不设置 CPU 处理额度上限，但请勿滥用.</li>
+<li> 每位用户至高可额外附加 1TB 存储空间，如有需求请邮件联系.</li>
+<li>MariaDB 服务限制每用户 10 个 connection, 请注意.</li>
+<li>TPNP team 提供免费的 7x5 小时技术支持，同时提供收费技术支持服务 (暂不开放).</li>
+<li> 国内服务器暂不支持自定义域名 (如确需自定义域名，请提供备案成功相关材料).</li>
+</ol>
+<h2 id="GDPR相关"><a href="#GDPR相关" class="headerlink" title="GDPR相关"></a>GDPR 相关</h2><p>VtbLover Project 与 TPNP 托管服务共用 GDPR 数据处理器，与 GDPR 相关的协议请点击<span class="exturl" data-url="aHR0cHM6Ly90cG5wLjAxMTYwMTEzLnh5ei9HRFBS">这里<i class="fa fa-external-link-alt"></i></span></p>
+]]></content>
+  </entry>
+</search>
